@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>method</key>
+	<string>app-store</string>
+	<key>teamID</key>
+	<string>LGE557938A</string>
+	<key>signingStyle</key>
+	<string>automatic</string>
+	<key>provisioningProfiles</key>
+	<dict>
+		<key></key>
+		<string>how_to_integrate_with_react_native</string>
+		<key>com.automizer.app.staging</key>
+		<string>how_to_integrate_with_react_native(staging)</string>
+	</dict>
+</dict>
+</plist>

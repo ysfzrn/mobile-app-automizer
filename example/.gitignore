@@ -1,0 +1,12 @@
+*/fastlane/report.xml
+*/fastlane/Preview.html
+*/fastlane/screenshots
+
+# Bundle artifact
+*.jsbundle
+
+# CocoaPods
+/ios/Pods/
+/ios/archive/
+/ios/export/
+/ios/Podfile.lock
